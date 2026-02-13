@@ -1,4 +1,5 @@
 import { Providers } from "./providers"
+import "./globals.css"
 
 const layout = ({children}:  {children: React.ReactNode}) => {
   return (
